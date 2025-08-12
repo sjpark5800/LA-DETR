@@ -42,16 +42,6 @@ This repository provides the official implementation of **MomentMix** + **Length
 ## 📦 Installation & Data Setup
 Before training or evaluation, please make sure both the datasets and the runtime environment are ready.
 
-* **⚙️ Setup Guide**
-* **📋 Getting Started**
-* **📦 Installation & Data Setup**
-* **🚀 Environment & Dataset Setup**
-* **🔧 How to Prepare**
-* **📂 Project Initialization**
-
-
-## 📋 Getting Started
-
 ### 1. Get the datasets ready
 
 QVHighlights and the other benchmark datasets can be obtained by following the guidelines from [QD-DETR](https://github.com/wjun0830/QD-DETR).
