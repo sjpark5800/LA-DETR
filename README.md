@@ -128,7 +128,7 @@ bash la_uvcom/scripts/inference.sh {exp_dir}/model_best.ckpt 'test'
 ```
 {exp_dir} refers to the directory containing the trained model checkpoint and logs.
 
-> **Note:** For test results, please refer to [Moment-DETR evaluation](standalone_eval/README.md).
+> **Note:** For test results, please refer to [Moment-DETR evaluation](https://github.com/jayleicn/moment_detr/tree/main/standalone_eval#readme).
 
 
 
